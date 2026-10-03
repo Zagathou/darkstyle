@@ -1,0 +1,27 @@
+# DARKSTYLE – Christians Dark Style
+
+> DARKSTYLE von Christian Grigoriadis (Zagathou / Zagato): Gothic, Bondage-Fashion, Lack & Leder, Schwerter und Accessoires – kurze, sachliche Texte zu Stil, typischen Elementen, Materialien und Pflege. Reine Mode- und Stilseite.
+
+Seite: https://zagathou.github.io/darkstyle/
+Volltext: https://zagathou.github.io/darkstyle/llms-full.txt
+Sprache: Deutsch (Schweizer Rechtschreibung)
+
+## Abschnitte
+- Gothic: https://zagathou.github.io/darkstyle/#gothic – Gothic ist ein dunkler Mode- und Musikstil, der Ende der 1970er und Anfang der 1980er Jahre in Grossbritannien aus der Post-Punk-Szene entstanden ist.
+- Bondage-Fashion: https://zagathou.github.io/darkstyle/#bondage-fashion – Bondage-Fashion ist ein Modestil, der Riemen, Schnallen, Ringe und Schnürungen als sichtbare Gestaltungselemente einsetzt.
+- Lack & Leder: https://zagathou.github.io/darkstyle/#lack-leder – Leder, Kunstleder, Lack bzw. PVC und Latex: Materialien und Pflegetipps.
+- Schwerter: https://zagathou.github.io/darkstyle/#schwerter – Dekorative Schwerter als Stil-Element, mit Hinweis zum Führverbot nach § 42a WaffG (Deutschland).
+- Accessoires: https://zagathou.github.io/darkstyle/#accessoires – Accessoires vervollständigen den Look und setzen Akzente in Silber und Schwarz.
+
+Fotos: folgen später (9:16-Platzhalter "BILD FOLGT").
+
+## Autor & Kontakt
+- Autor: Christian Grigoriadis (Zagathou / Zagato)
+- Session-ID: 055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173
+- About: https://zagathou.github.io/zagathou/
+- GitHub: https://github.com/Zagathou
+
+Private, nicht-kommerzielle Stilseite. Reine Mode- und Stilinhalte. Alle Texte sind allgemein gehalten und ohne Gewähr; der Hinweis zum Waffengesetz ist keine Rechtsberatung.
+These webpages are optimized for simple Non-Agentic Artificial Intelligence and easy to read.
+Last Updated: 03.10.2026
+Coded by GrokBot / SpaceXAI!
